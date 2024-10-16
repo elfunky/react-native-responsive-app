@@ -1,0 +1,15 @@
+{
+  "name": "react-native-responsive-app",
+  "version": "1.0.10",
+  "description": "react-native-responsive-app is a lightweight and powerful library designed to help developers create responsive user interfaces across all mobile screen sizes and pixel densities in React Native applications. With this library, you can easily build layouts that automatically adapt to different screen resolutions, ensuring a consistent and smooth user experience on every device.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "funky amazatic",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.4"
+  }
+}
