@@ -23,7 +23,7 @@ yarn add react-native-responsive-app
 
 Below is a comparison of the mobile views for different devices displaying a React Native component:
 
-![Mobile View Comparison](/src/assets/mobile-ui-comparison.svg)
+![Both platform devices UI](https://raw.githubusercontent.com/elfunky/react-native-responsive-app/main/src/assets/responsive.png)
 
 # Usage
 
